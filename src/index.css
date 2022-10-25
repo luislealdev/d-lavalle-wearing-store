@@ -1,6 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Playfair+Display:wght@700&display=swap');
-img {
-  height: 50vh;
-  margin-top: 25vh;
-  margin-bottom: 25vh;
+
+html {
+  overflow: hidden;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  flex-direction: column;
+}
+
+section img {
+  width: 300px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
 }
