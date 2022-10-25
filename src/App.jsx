@@ -1,7 +1,7 @@
 function App() {
   return (
     <section>
-      <img src="./src/assets/img/logo.jpg" alt="Logo de craneo en llamas" />
+      <img src="./assets/img/logo.jpg" alt="Logo de craneo en llamas" />
       <h1>PRÓXIMAMENTE</h1>
     </section>
   );
